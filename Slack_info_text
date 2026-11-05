@@ -1,0 +1,11 @@
+Home tab: 
+Welcome to Ledgebrook Service Desk. 
+
+Short About: 
+Submit Ledgebrook Service Desk requests to Jira directly from Slack.
+
+Use /servicedesk to create a ticket. Choose the category that best fits, add a concise summary and details, then submit when ready. 
+The app checks for matching open tickets before creating a new one.
+
+Current form helper text: 
+Use one ticket per request. If unsure, submit your best description and Service Desk can redirect it. 
